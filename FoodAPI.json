@@ -431,7 +431,7 @@
             "descriptions": "A Tandoori Paneer Burger is a fusion delight, featuring a grilled paneer patty marinated in tandoori spices, served in a burger bun with Indian and Western toppings for a spicy and flavorful experience."
         }
     ],
-    "Cake": [
+    "CakeFoodAPI": [
         {
             "id": 1,
             "name": "Chocolate Cake",
