@@ -193,7 +193,7 @@
             "descriptions": "Shrikhand: Indulge in the sublime sweetness of our Shrikhand, a beloved Indian dessert. Made from strained yogurt, Shrikhand is a creamy delicacy that's delicately flavored with saffron, cardamom, and a hint of rose water. Its velvety texture is complemented by the aromatic spices, creating a symphony of flavors that dance on the palate. Whether enjoyed on its own or as a luxurious accompaniment to puris, Shrikhand is a decadent treat that captures the essence of Indian culinary artistry, offering a blissful and fragrant journey through each spoonful."
         }
     ],
-    "PunjabiFood": [
+    "PunjabiFoodAPI": [
         {
             "id": 1,
             "name": "Sarso Da Saag and Makki Di Roti",
@@ -275,7 +275,7 @@
             "descriptions": "Punjabi Lassi: Experience the refreshing delight of our Punjabi Lassi, a traditional yogurt-based drink. Made with thick yogurt, a touch of sweetness, and sometimes a hint of aromatic spices, Lassi is a creamy and cooling beverage that offers a soothing escape from the heat. Whether sipped as a standalone treat or paired with a hearty meal, its velvety texture and balanced flavors create a satisfying and rejuvenating experience that's a cherished part of Punjabi cuisine."
         }
     ],
-    "Pizza": [
+    "PizzaFoodAPI": [
         {
             "id": 1,
             "name": "Margherita",
