@@ -13,7 +13,7 @@
         {
             "id": 2,
             "name": "Fried Rice",
-            "image": "https://www.whiskaffair.com/wp-content/uploads/2018/11/Vegetable-Fried-Rice-2-3.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/Vegetable-Fried-Rice-2-3.jpg?alt=media&token=46ba98a9-3893-44be-8483-8542e9f58a97",
             "price": "60",
             "rate": "4.5",
             "time": "20",
@@ -23,7 +23,7 @@
         {
             "id": 3,
             "name": "Pizza",
-            "image": "https://c4.wallpaperflare.com/wallpaper/1017/647/742/food-pizza-still-life-hd-wallpaper-preview.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/food-pizza-still-life-hd-wallpaper-preview.jpg?alt=media&token=aad16821-762c-4861-954b-713135559392",
             "price": "199",
             "rate": "4.8",
             "time": "40",
