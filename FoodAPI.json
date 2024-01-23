@@ -33,7 +33,7 @@
         {
             "id": 4,
             "name": "Burger",
-            "image": "https://cdn.pixabay.com/photo/2023/03/05/11/02/burger-7831128_1280.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/front-view-tasty-meat-burger-with-cheese-and-salad-free-photo.jpg?alt=media&token=33d5c91b-8832-4dd1-b465-480b1185c4ab",
             "price": "99",
             "rate": "4.7",
             "time": "30",
