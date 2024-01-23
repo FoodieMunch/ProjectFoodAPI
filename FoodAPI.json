@@ -33,7 +33,7 @@
         {
             "id": 4,
             "name": "Burger",
-            "image": "https://cdn.pixabay.com/photo/2023/03/05/11/02/burger-7831128_1280.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/front-view-tasty-meat-burger-with-cheese-and-salad-free-photo.jpg?alt=media&token=33d5c91b-8832-4dd1-b465-480b1185c4ab",
             "price": "99",
             "rate": "4.7",
             "time": "30",
@@ -43,7 +43,7 @@
         {
             "id": 5,
             "name": "Pasta",
-            "image": "https://images.alphacoders.com/130/1308370.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/pasta.jpg?alt=media&token=ac25030b-a4b5-468f-838b-70421ad64757",
             "price": "70",
             "rate": "4.6",
             "time": "25",
@@ -53,7 +53,7 @@
         {
             "id": 6,
             "name": "Noodles",
-            "image": "https://img.freepik.com/premium-photo/bowl-noodles-with-vegetables-noodles_940863-11915.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/noodles.jpg?alt=media&token=929f195d-fe8a-4e76-87f9-689f1c9f9a66",
             "price": "50",
             "rate": "4.5",
             "time": "20",
@@ -63,7 +63,7 @@
         {
             "id": 7,
             "name": "Sandwich",
-            "image": "https://img.freepik.com/premium-photo/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/two-sandwiches-made-slice-meat-cheese-tomatoes-toasted-bread-wooden-table_244366-394.avif?alt=media&token=7dfc086d-a61f-43cf-a5cb-3da2539b1602",
             "price": "40",
             "rate": "4.4",
             "time": "15",
@@ -73,7 +73,7 @@
         {
             "id": 8,
             "name": "Rolls",
-            "image": "https://c1.wallpaperflare.com/preview/564/844/49/nem-chinese-vegetables-chinese-cabbage.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/rolls.jpg?alt=media&token=4d58bd8f-feb0-485b-a298-e916472f3f26",
             "price": "30",
             "rate": "4.3",
             "time": "10",
@@ -83,7 +83,7 @@
         {
             "id": 9,
             "name": "Momos",
-            "image": "https://e1.pxfuel.com/desktop-wallpaper/14/944/desktop-wallpaper-veg-momos-recipe-momos-recipe-street-style-momos-momo-food.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/momops.jpg?alt=media&token=2d53ec4a-9c8a-476e-aacb-e52752b13c19",
             "price": "50",
             "rate": "4.2",
             "time": "15",
@@ -93,7 +93,7 @@
         {
             "id": 10,
             "name": "Ice Cream",
-            "image": "https://media.istockphoto.com/id/1161805849/photo/strawberry-vanilla-chocolate-ice-cream-with-waffle-cone-on-marble-stone-backgrounds.jpg?s=612x612&w=0&k=20&c=BXObHKE0gbA2autsMZGFeEmK2xGKYdJBbM1_ig0Boyk=",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/istockphoto-1161805849-612x612.jpg?alt=media&token=7b64b44b-860d-46da-8edb-55247830c4e7",
             "price": "40",
             "rate": "4.1",
             "time": "10",
@@ -103,7 +103,7 @@
         {
             "id": 11,
             "name": "French fries",
-            "image": "https://wallpaperaccess.com/full/1747258.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/1747258.jpg?alt=media&token=7276c6c3-fa3f-46f3-a826-26cd5930e06e",
             "price": "60",
             "rate": "4.7",
             "time": "15",
@@ -113,7 +113,7 @@
         {
             "id": 12,
             "name": "Bread Pakora",
-            "image": "https://media.istockphoto.com/id/1294561361/photo/street-food-bread-pakora.jpg?s=612x612&w=0&k=20&c=iD-ykuRv1705rAUeRMKX-GdT5OGdNb2sIp0BvmCuCMg=",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/istockphoto-1294561361-612x612.jpg?alt=media&token=1382a8da-b2c9-4479-b72e-dbe4d278a290",
             "price": "30",
             "rate": "4.6",
             "time": "10",
@@ -125,7 +125,7 @@
         {
             "id": 1,
             "name": "Dhokla",
-            "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/10/khaman-dhokla-recipe.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/khaman-dhokla-recipe.jpg?alt=media&token=9de76d75-0d38-4f43-a897-2b78cd966d71",
             "price": "75",
             "rate": "4.9",
             "time": "30",
@@ -135,7 +135,7 @@
         {
             "id": 2,
             "name": "Khandvi",
-            "image": "https://rakskitchen.net/wp-content/uploads/2013/11/10921796334_c5b1f9fcda_z-500x375.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/10921796334_c5b1f9fcda_z-500x375.jpg?alt=media&token=6cb7861b-6e73-43b4-9478-35cd127ce559",
             "price": "80",
             "rate": "4.8",
             "time": "25",
@@ -145,7 +145,7 @@
         {
             "id": 3,
             "name": "Thepla",
-            "image": "https://thumbs.dreamstime.com/b/indian-parantha-stuffed-indian-bread-methi-thepla-stack-indian-flatbread-methi-paratha-fenugreek-gujarati-thepla-potato-125773599.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/indian-parantha-stuffed-indian-bread-methi-thepla-stack-indian-flatbread-methi-paratha-fenugreek-gujarati-thepla-potato-125773599.webp?alt=media&token=c153ee77-50c4-405c-b9da-25a1af988a45",
             "price": "40",
             "rate": "4.7",
             "time": "20",
@@ -155,7 +155,7 @@
         {
             "id": 4,
             "name": "Handvo",
-            "image": "https://infostationsite.files.wordpress.com/2015/11/32421handvo1.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/32421handvo1.jpg?alt=media&token=831981e6-f84a-4b50-9045-5ebdb200469d",
             "price": "60",
             "rate": "4.6",
             "time": "25",
@@ -165,7 +165,7 @@
         {
             "id": 5,
             "name": "Fafda",
-            "image": "https://img.freepik.com/premium-photo/fafda-food_57665-9633.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/fafda-food_57665-9633.webp?alt=media&token=87efad06-717a-44e7-a8e2-8b632d88e314",
             "price": "100",
             "rate": "4.5",
             "time": "30",
@@ -175,7 +175,7 @@
         {
             "id": 6,
             "name": "Undhiyu",
-            "image": "https://www.secondrecipe.com/wp-content/uploads/2020/10/undhiyu-final-720x532.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/undhiyu-final-720x532.jpg?alt=media&token=7908ba01-107e-4b28-be8d-abef10a227d8",
             "price": "159",
             "rate": "4.4",
             "time": "40",
@@ -185,7 +185,7 @@
         {
             "id": 7,
             "name": "Shrikhand",
-            "image": "https://thumbs.dreamstime.com/b/indian-sweet-kesar-shrikhand-dish-made-strained-yogurt-widely-popular-maharashtrian-cuisine-gujarati-cuisine-73797496.jpg",
+            "image": "https://firebasestorage.googleapis.com/v0/b/foodie-munch-7505f.appspot.com/o/Mango-Shrikhand-6-961x1024.jpg?alt=media&token=970e6829-ab8c-4bfa-a039-1ccdfcde09aa",
             "price": "50",
             "rate": "4.3",
             "time": "15",
